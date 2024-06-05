@@ -1,0 +1,10 @@
+inteiro nota1 = 5;
+inteiro nota2 = 4;
+inteiro nota3 = 6;
+inteiro nota4 = 7;
+
+real media = 0;
+
+media = (nota1 + nota2 +nota3+nota4)/4.0;
+
+imprimir(media);
